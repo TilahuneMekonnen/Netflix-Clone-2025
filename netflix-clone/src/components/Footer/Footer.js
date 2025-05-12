@@ -9,15 +9,9 @@ const Footer = () => {
     <div className="footer_outer_container">
       <div className="footer_socials">
         <ul>
-          <li>
-            <FacebookOutlinedIcon />
-          </li>
-          <li>
-            <InstagramIcon />
-          </li>
-          <li>
-            <YouTubeIcon />
-          </li>
+          <li><FacebookOutlinedIcon /></li>
+          <li><InstagramIcon /></li>
+          <li><YouTubeIcon /></li>
         </ul>
       </div>
 

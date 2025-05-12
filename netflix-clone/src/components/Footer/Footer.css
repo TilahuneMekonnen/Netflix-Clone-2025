@@ -28,14 +28,12 @@
   justify-content: center;
   flex-wrap: wrap;
   gap: 60px;
-  margin-top: 20px;  /* Ensures a gap between social icons and categories */
 }
 
 .footer_category {
   display: flex;
   flex-direction: column;
   gap: 10px;
-  text-align: left; /* Align text to the left for categories */
 }
 
 .footer_category p {
@@ -47,9 +45,4 @@
 
 .footer_category p:hover {
   color: gray;
-}
-
-/* Specific styling to make the first category align with the icons */
-.social_category {
-  text-align: center; /* Align the first category's text with the icons */
 }
